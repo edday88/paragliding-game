@@ -18,7 +18,7 @@ const paraglider = {
     height: 40,
     speedX: 5,
     speedY: 0,
-    gravity: 0.2,
+    gravity: 0.1,
     lift: -5,
     color: '#FF0000', // Red color for paraglider
 };
